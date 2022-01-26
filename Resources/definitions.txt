@@ -1,0 +1,5 @@
+POJO - Plain Old Java Object
+JavaBeans - Simple objects with only getters and setters
+Spring Beans - POJOs configured in the application context
+DTO - Beans used to move state between layers
+IoC - Inversion of Control
